@@ -1,4 +1,4 @@
-Lab 5
+Lab 7 Practice
 ====
 
-Lab 5: Putting it together
+Let's fix this broken Express.js app. 
